@@ -39,5 +39,5 @@ This project involves:
 ## 🔧 How to Run the Project Locally  
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/iris-flower-classification.git
+git clone https://github.com/Atharvdanej07/iris-flower-classification.git
 cd iris-flower-classification
